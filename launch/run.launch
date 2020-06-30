@@ -1,0 +1,4 @@
+<launch>
+	<node name="teleop_wii" pkg="teleop_wii" type="teleop_wii" output="screen" />
+</launch>
+
